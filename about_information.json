@@ -1,0 +1,33 @@
+{
+	"Name":"Filipp",
+	"Second Name":"Schevchenko",
+	"Old":"18 y.o",
+	"University":
+	{
+		"Name":"KRSU",
+		"Level":"2",
+		"Speciality":
+		{
+			"Faculty":"Naturally Technical",
+			"Direction":"Program developer"
+		}
+	},
+	"Home address":
+	{
+		"Street":"Fatyanov st.",
+		"Home number":"9",
+		"Flat number":"63"
+	},
+	"Contact information":
+	[
+		{
+			"Email":"fill3850@gmail.com"
+		},
+		{
+			"Github":"https://github.com/fill0520"
+		},
+		{
+			"Phone number":"+996556124174"
+		}
+	]
+}
